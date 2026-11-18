@@ -1,0 +1,7 @@
+# Binaries
+rsu_server
+obu
+
+# Object files and temporary logs
+*.o
+*.log

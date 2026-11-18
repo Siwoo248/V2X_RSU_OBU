@@ -1,7 +1,9 @@
 # Binaries
-rsu_server
-obu
+**/obu
+**/obu.exe
+**/rsu_server
+**/rsu_server.exe
 
 # Object files and temporary logs
-*.o
-*.log
+**/*.o
+**/*.log

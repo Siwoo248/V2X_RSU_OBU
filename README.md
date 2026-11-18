@@ -32,19 +32,3 @@ V2X_RSU_OBU/
 
 ---
 
-## 🚀 빠른 시작 (11.18 프로젝트 기준)
-
-```bash
-cd 11.18
-make clean && make
-
-# 터미널 1
-./rsu_server
-
-# 터미널 2
-./obu CAR01
-
-# 터미널 3
-./obu CAR02
-```
-상세한 시각화 및 테스트 방법은 [11.18/README.md](./11.18/README.md)를 참조하세요.
